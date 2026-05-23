@@ -19,6 +19,7 @@
 #### A passionate AI/ML & Full-Stack Developer from India 🇮🇳
 
 - 🎓 Pursuing **B.E. in Computer Engineering** at **DAVV, Indore**
+- 🏆 **Winner — Smart India Hackathon 2025 (SIH'25)**
 - 🤖 Building **RAG-based AI systems** and **LLM-powered apps**
 - 🛠️ Love crafting full-stack products 
 - 🌱 Currently learning HLD System Design 
